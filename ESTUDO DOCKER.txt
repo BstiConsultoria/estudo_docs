@@ -1,0 +1,141 @@
+Redis Client para NodeJs
+http://redis.js.org/
+https://www.sitepoint.com/using-redis-node-js/
+https://coligo.io/nodejs-api-redis-cache/
+
+Instalando o Docker no Ubuntu
+https://docs.docker.com/engine/installation/linux/ubuntulinux/
+
+Configurando o Proxy no Docker:
+https://cursos.alura.com.br/forum/topico-configurar-proxy-no-docker-20834
+
+
+RESOLVENDO O DNS PARA O CONTAINER ACHAR A INTERNET
+https://translate.googleusercontent.com/translate_c?depth=1&hl=pt-BR&prev=search&rurl=translate.google.com.br&sl=en&u=http://stackoverflow.com/questions/24991136/docker-build-could-not-resolve-archive-ubuntu-com-apt-get-fails-to-install-a&usg=ALkJrhhUo2Hkq1yonweRzXywLRiZLS3D1A
+
+http://www.mundodocker.com.br/rede-no-docker/
+http://techfree.com.br/2016/02/entendendo-a-rede-do-docker/
+
+https://www.airpair.com/docker/posts/introducao-ao-docker-para-o-desenvolvedor-nodejs
+
+
+https://translate.googleusercontent.com/translate_c?depth=1&hl=pt-BR&prev=search&rurl=translate.google.com.br&sl=en&u=https://superuser.com/questions/1121717/linux-iptables-rules-for-docker-container&usg=ALkJrhhP_r8ZS0PKuLX8OcAJTjrOP0rJ9Q
+
+
+Dashboard:
+http://bootsnipp.com/snippets/x85EN
+https://speckyboy.com/free-bootstrap-admin-themes/
+http://www.bootply.com/BtYu8KU14X
+
+
+
+
+Graficos:
+
+. Morris
+. chartJs
+. flot
+
+Site de exemplo:
+http://www.bootply.com/tagged/chart
+
+Exemplo de montagem no NavBar
+http://www.w3schools.com/bootstrap/bootstrap_navbar.asp
+
+
+
+Social:
+http://bootsnipp.com/snippets/a35Rz
+
+
+BootStrap Menu:
+http://bootsnipp.com/snippets/featured/bootstrap-mega-menu
+http://bootsnipp.com/snippets/featured/navbar-lateral-slide-menu
+http://bootsnipp.com/index.php/snippets/featured/mega-menu-slide-down-on-hover-with-carousel
+http://bootsnipp.com/snippets/Ekony
+http://bootsnipp.com/snippets/RlpXb
+http://bootsnipp.com/snippets/featured/admin-navigation
+http://bootsnipp.com/snippets/00pkG
+http://bootsnipp.com/snippets/kWPoW
+
+Tag Clound:
+http://bootsnipp.com/snippets/xAKG
+
+snippets em Bootstrap:
+http://bootsnipp.com/snippets/2pA3o
+http://bootsnipp.com/snippets/jbaMz
+http://bootsnipp.com/snippets/featured/contact-list
+http://bootsnipp.com/snippets/featured/expandable-search-input
+http://bootsnipp.com/snippets/featured/buttons-with-built-in-loading-indicators
+http://bootsnipp.com/snippets/featured/feature-panels-with-collapse
+http://bootsnipp.com/snippets/featured/social-icons-font-awesome-with-hover
+http://bootsnipp.com/snippets/mpKby
+http://bootsnipp.com/snippets/NBQGv
+http://bootsnipp.com/snippets/45OdK
+http://bootsnipp.com/snippets/VGBN
+http://bootsnipp.com/snippets/8ANqZ
+
+Menu com painel com opções: (legal)
+http://bootsnipp.com/snippets/4xnaQ
+http://bootsnipp.com/snippets/mpWOn
+http://bootsnipp.com/snippets/2qgMx
+http://bootsnipp.com/snippets/6jPP
+
+Acount
+http://bootsnipp.com/snippets/2qgMx
+
+
+Perfil usuário:
+http://bootsnipp.com/snippets/z1aWx
+http://bootsnipp.com/snippets/Kr4Rg
+http://bootsnipp.com/snippets/featured/responsive-login-with-social-buttons
+
+
+Muito legal, o menu abre na esquerda:
+http://bootsnipp.com/snippets/r80XP
+
+Timeline:
+http://bootsnipp.com/snippets/featured/two-column-timeline-not-responsive
+
+
+
+Gostei
+http://bootsnipp.com/snippets/2naNr
+
+Muito legal - Fluxo de Tela
+http://bootsnipp.com/snippets/featured/form-wizard-and-validation
+
+Formulario com validação de campos:
+http://bootsnipp.com/snippets/featured/contact-us-form-with-validation
+http://bootsnipp.com/snippets/DO1n
+Este exemplo da para entender a validação dos campos:
+http://bootsnipp.com/snippets/KBomD
+
+Busca Avançada:
+http://bootsnipp.com/snippets/featured/collapse-filters-panel
+
+CSS para filtro na grid, bem legal:
+http://bootsnipp.com/snippets/featured/panel-table-with-filters-per-column
+
+
+
+Muito Legal, posso fazer uma tela com o Perfil do cliente, com informações de fidelidade do cliente:
+http://bootsnipp.com/snippets/4lr9W
+http://bootsnipp.com/snippets/xvnBX
+
+Colocar imagem dentro do button - MUITO LEGAL
+http://pt.stackoverflow.com/questions/16720/como-incluir-glyphicon-do-bootstrap-dentro-da-tag-input-input
+
+
+
+CRUD Bootstrap:
+http://webdevacademy.com.br/tutoriais/crud-com-bootstrap-3-parte1/
+http://webdevacademy.com.br/tutoriais/crud-com-bootstrap-3-parte2/
+http://webdevacademy.com.br/tutoriais/crud-com-bootstrap-3-parte3/
+http://webdevacademy.com.br/tutoriais/crud-com-bootstrap-3-parte4/
+http://webdevacademy.com.br/tutoriais/crud-com-bootstrap-3-parte5/
+
+
+
+
+

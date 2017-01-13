@@ -1,0 +1,8 @@
+https://mariovalney.com/como-usar-cookies-com-javascript/
+https://odesenvolvedor.andafter.org/publicacoes/classe-para-gravar-e-ler-cookies-por-javascript_537.html
+
+Bem explicativo
+https://www.todoespacoonline.com/w/2014/04/cookies-em-javascript/
+
+Criando Cookies com o JQuery, fica bem facil:
+http://pt.stackoverflow.com/questions/133512/como-pegar-cookie-de-sess%C3%A3o-via-javascript

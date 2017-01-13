@@ -1,0 +1,32 @@
+http://www.layoutit.com/pt
+http://getbootstrap.com.br/javascript/
+https://mariovalney.com/como-criar-um-site-responsivo-e-com-o-material-design-do-google-usando-o-materialize/
+https://webdesign.tutsplus.com/pt/articles/an-overview-of-material-design-lite--cms-24370
+
+Adicionando badge tipo um carrinho de compras com o numero vermelhor de item no carrinho
+http://www.viralandroid.com/2016/01/adding-badge-item-count-to-android-button.html
+
+exemplo com o carrinho de compra
+http://stackoverflow.com/questions/33729396/how-to-display-count-of-notifications-in-toolbar-icon-in-android
+https://translate.googleusercontent.com/translate_c?depth=1&hl=pt-BR&prev=search&rurl=translate.google.com.br&sl=en&u=http://stackoverflow.com/questions/33729396/how-to-display-count-of-notifications-in-toolbar-icon-in-android&usg=ALkJrhj4p_JDr83Bgf7_fxF3OTABGqsgYg
+http://www.viralandroid.com/2016/01/adding-badge-notification-count-to-android-actionbar-icon.html
+https://translate.googleusercontent.com/translate_c?depth=1&hl=pt-BR&prev=search&rurl=translate.google.com.br&sl=en&u=http://stackoverflow.com/questions/17565307/how-to-display-count-of-notifications-in-app-launcher-icon&usg=ALkJrhi-bFd-Zx8ZZCUIP8q0diSecY6mHQ
+http://stackoverflow.com/questions/18156477/how-to-make-an-icon-in-the-action-bar-with-the-number-of-notification
+http://www.devexchanges.info/2015/05/building-actionbar-notifications-count.html
+http://technology.ezeenow.com/posts/17203/Setting_shopping_cart_count_in_android_menu_item_shopping_cart_
+http://logicchip.com/display-count-notification-in-menu-item-and-launcher-icon/
+
+exemplo facil para montar o badge:
+http://mobikul.com/adding-badge-count-on-menu-items-like-cart-notification-etc/
+http://androidloversnbaig.blogspot.com.br/2016/07/notification-count-badge-example-in.html
+http://qaoverflow.com/question/how-to-display-countbadge-notification-on-android-actionbar-menu-item/
+
+Site icones de carrinho de compra
+http://icon-icons.com/pt/icone/Compras/16935#32
+https://www.iconfinder.com/search/?q=checkout
+
+Navegation view
+http://antonioleiva.com/navigation-view/
+
+Tamanhos dos icones
+http://tableless.com.br/design-de-aplicativos-para-android-parte-2/

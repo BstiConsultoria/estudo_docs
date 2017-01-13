@@ -1,0 +1,168 @@
+Para start MongoDB:
+mondod
+
+para abrir o console:
+mongo
+
+Criando um database no MongoDB:
+> use db_lakatitas
+
+Listar as bases de dados existentes no MongoDB:
+> show dbs
+
+Como acessar uma base de dados no MongoDB:
+> use db_lakatitas
+
+Como verificar em qual base de dados você esta no MongoDB?
+> db
+
+Criando uma estrutura de dados (collection):
+db.createCollection('contato')
+
+Listando todas as collection existente na base de dados:
+show collections
+
+
+Inserindo:
+db.<collection>.insert
+
+Update
+db.<collection>.update
+
+deletar
+db.contato.remove({name: ‘Marco Bruno’})
+
+Para remover todos os registros da collection contato:
+db.contato.remove()
+
+
+
+Drop Collection
+db.<collection>.drop();
+
+DROP Data Base:
+db.dropDatabase()
+
+
+mongo
+
+use db_lakatitas
+db.createCollection('cardapio')
+
+exit
+
+IMPORTAR OS DADOS DOS ARQUIVOS JSON ABAIXO:
+
+d:\developer\workspace\ProjetosMEAN_Stack\teste>mongoimport --db db_lakatitas --
+collection cardapio --type json --file JSON_CARDAPIO_LA_KATITAS.json
+
+d:\developer\workspace\ProjetosMEAN_Stack\teste>mongoimport --db db_lakatitas --
+collection cardapio --type json --file JSON_CARDAPIO_LA_KATITAS_SALGADA.json
+
+mongo
+
+> db.cardapio.find({"tipo":"Salgadas"}).pretty()
+{
+        "_id" : ObjectId("580a744fbf3dff4efa9cd71f"),
+        "tipo" : "Salgadas",
+        "pizzas" : [
+                {
+                        "codigo" : "10",
+                        "titulo" : "Calabreza",
+                        "descricao" : "Calabreza, Cebola"
+                },
+                {
+                        "codigo" : "20",
+                        "titulo" : "PORTUGUESA",
+                        "descricao" : "PRESUNTO, OVO, MUSSARELA, AZEITONA"
+                }
+        ]
+}
+> db.cardapio.find({"tipo":"Pizzas Doces"}).pretty()
+{
+        "_id" : ObjectId("580a6e09bf3dff4efa9cd71e"),
+        "tipo" : "Pizzas Doces",
+        "pizzas" : [
+                {
+                        "codigo" : "81",
+                        "titulo" : "TROPICAL",
+                        "descricao" : "BANANA, CANELA E CREME DE LEITE"
+                },
+                {
+                        "codigo" : "82",
+                        "titulo" : "BRIGADEIRO",
+                        "descricao" : "CHOCOLATE E GRANULADO"
+                },
+                {
+                        "codigo" : "83",
+                        "titulo" : "PRESTIGIO",
+                        "descricao" : "CHOCOLATE E COCO RALADO"
+                },
+                {
+                        "codigo" : "84",
+                        "titulo" : "BEIJINHO",
+                        "descricao" : "LEITE CONDENSADO E COCO RELADO"
+                },
+                {
+                        "codigo" : "85",
+                        "titulo" : "AGRI DOCE",
+                        "descricao" : "BANANA COM MUSSARELA"
+                },
+                {
+                        "codigo" : "86",
+                        "titulo" : "KIDS",
+                        "descricao" : "CHOCOLATE COM CONFETE"
+                },
+                {
+                        "codigo" : "87",
+                        "titulo" : "ROMEU E JULIETA",
+                        "descricao" : "MUSSARELA E GOIABA"
+                },
+                {
+                        "codigo" : "88",
+                        "titulo" : "SONHO MEU",
+                        "descricao" : "BANANA E CHOCOLATE"
+                },
+                {
+                        "codigo" : "89",
+                        "titulo" : "HAWAI",
+                        "descricao" : "ABACAXI E MUSSARELA"
+                },
+                {
+                        "codigo" : "90",
+                        "titulo" : "ARCO IRIS",
+                        "descricao" : "BANANA, CHOCOLATE E CONFETE"
+                }
+        ]
+}
+
+> db.cardapio.find({"pizzas.codigo": "82"}, {"pizzas.$":1})
+{ "_id" : ObjectId("580a6e09bf3dff4efa9cd71e"), "pizzas" : [ { "codigo" : "82",
+"titulo" : "BRIGADEIRO", "descricao" : "CHOCOLATE E GRANULADO" } ] }
+> db.cardapio.find({"pizzas.codigo": "82"}, {"pizzas.$":1}).pretty()
+{
+        "_id" : ObjectId("580a6e09bf3dff4efa9cd71e"),
+        "pizzas" : [
+                {
+                        "codigo" : "82",
+                        "titulo" : "BRIGADEIRO",
+                        "descricao" : "CHOCOLATE E GRANULADO"
+                }
+        ]
+}
+> db.cardapio.find({"pizzas.codigo": "10"}, {"pizzas.$":1}).pretty()
+{
+        "_id" : ObjectId("580a744fbf3dff4efa9cd71f"),
+        "pizzas" : [
+                {
+                        "codigo" : "10",
+                        "titulo" : "Calabreza",
+                        "descricao" : "Calabreza, Cebola"
+                }
+        ]
+}
+
+
+
+
+

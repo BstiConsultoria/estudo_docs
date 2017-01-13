@@ -1,0 +1,261 @@
+Perfeito - Trabalhando com NodeJs, Mongo no AWS EC2
+https://scotch.io/tutorials/deploying-a-mean-app-to-amazon-ec2-part-1
+https://scotch.io/tutorials/deploying-a-mean-app-to-amazon-ec2-part-2
+http://stackoverflow.com/questions/36410318/amazon-ec2-instance-of-bitnami-mean-how-to-host-app-on-port-80
+
+Login Usuário e Senha
+https://www.danielgynn.com/build-an-authentication-app-using-express-node-passport/
+https://www.danielgynn.com/node-auth-part2/
+
+https://code.tutsplus.com/pt/tutorials/authenticating-nodejs-applications-with-passport--cms-21619
+http://mherman.org/blog/2015/01/31/local-authentication-with-passport-and-express-4/#.WHjlMFMrLGg
+http://mherman.org/blog/2015/01/31/local-authentication-with-passport-and
+https://scotch.io/tutorials/easy-node-authentication-setup-and-local
+https://www.sitepoint.com/local-authentication-using-passport-node-js/
+http://www.codexpedia.com/node-js/node-js-authentication-using-passport-local-strategy/
+
+
+Enterprise Application Log: (RabbitMQ LogStash ElasticSearch Kibana)
+http://www.devmedia.com.br/elasticsearch-como-gerenciar-logs-com-logstash/32939
+http://www.concretesolutions.com.br/2012/01/26/rabbitmq-conceitos-basicos/
+https://www.digitalocean.com/community/tutorials/how-to-install-elasticsearch-logstash-and-kibana-elk-stack-on-centos-7
+https://sematext.com/blog/2015/05/27/monitoring-kibana-4s-node-js-app/
+https://developer.ibm.com/open/2015/09/07/using-elasticsearch-and-kibana-with-node-application-metrics/
+
+cadastro da aplicacao no oauth2 de cada rede social
+https://developers.facebook.com/apps/
+https://apps.twitter.com/
+
+Socket.io
+https://www.ibm.com/developerworks/br/library/wa-nodejs-polling-app/
+
+
+Gulp:
+https://www.danielgynn.com/automating-build-tasks-with-gulp/
+
+
+Estudo Geral sobre Cloud
+http://pt.slideshare.net/rmmartins/cloud-aws-da-teoria-prtica
+
+
+Organizando o Projeto:
+https://stewan.io/angularjs/2014/12/23/cinco-erros-de-padrao-ao-desenvolver-com-angular-js.html
+https://www.infoq.com/br/presentations/nodejs-estruturando-suas-aplicacoes
+
+
+Redis com nginx:
+http://pt.slideshare.net/AmazonWebServicesLATAM/aws-sao-paulo-summit-2015-elasti-cache-avancado
+http://www.nginxguts.com/2015/03/distributed-caching-using-redis/
+
+
+
+Login:
+http://mherman.org/blog/2015/09/26/social-authentication-in-node-dot-js-with-passport/#.WHPPtFMrLGg
+http://stackoverflow.com/questions/33639337/use-passport-js-behind-corporate-firewall-for-facebook-strategy
+http://lukeberndt.com/2013/using-node-js-behind-a-proxy/
+https://scotch.io/tutorials/easy-node-authentication-facebook
+https://code.tutsplus.com/pt/tutorials/authenticating-nodejs-applications-with-passport--cms-21619
+https://dejanglozic.com/2014/10/07/sharing-micro-service-authentication-using-nginx-passport-and-redis/
+https://truongtx.me/2014/03/29/authentication-in-nodejs-and-expressjs-with-passportjs-part-1
+http://stackoverflow.com/questions/20533735/anyway-to-set-proxy-setting-in-passportjs
+
+
+Docker na AWS
+http://pt.slideshare.net/AmazonWebServicesLATAM/5-rodando-containers-docker-na-aws
+https://aws.amazon.com/pt/getting-started/tutorials/deploy-docker-containers/
+
+AWS CodeCommit: (É um repositório Git Privado)
+https://aws.amazon.com/pt/codecommit/pricing/
+
+
+Trabalhando com o ECR (EC2 Container Registry )
+Registrando as imagens Docker no ECR:
+http://docs.aws.amazon.com/AmazonECR/latest/userguide/what-is-ecr.html
+http://docs.aws.amazon.com/AmazonECR/latest/userguide/get-set-up-for-amazon-ecr.html
+http://docs.aws.amazon.com/AmazonECR/latest/userguide/ECR_GetStarted.html
+
+
+PassportJs com Proxy
+https://www.npmjs.com/package/http-proxy-agent
+
+
+
+
+Resolvendo o Refresh de Página no AngularJs
+http://vladimirfeskov.com/posts/angularjs-html5-mode-setup-use-and-seo
+
+Subindo o node com express e entregando conteúdo dinâmico
+http://nodebr.com/subindo-o-node-com-express-e-entregando-conteudo-dinamico/
+
+
+http://pt.stackoverflow.com/questions/82805/como-hospedar-minha-aplica%C3%A7%C3%A3o-angular
+
+RESOLVER REFRASH DE PAGINA NO ANGULAR E NODE:
+http://jjt.io/2013/11/16/angular-html5mode-using-yeoman-generator-angular/
+
+CLOUDFLARE - O SITE DO DR. CONSULTA USA, E TODA A APLICAÇÃO É NODE (ESTUDAR ESSA POSSIBILIDADE):
+http://nginx.blog.br/cloudflare-restaurar-ip-real/
+
+
+MEAN STACK : NGINX REVERSE PROXY TO A NODE APPLICATION SERVER MANAGED BY PM2
+http://www.bogotobogo.com/MEAN-Stack/MEAN-Stack-MongoDB-ExpressJS-AngularJS-NodeJS-Nginx-Reverse-Proxy-PM2.php
+
+
+METEOR
+https://guide.meteor.com/
+
+
+https://scotch.io/tutorials/deploying-a-mean-app-to-amazon-ec2-part-2
+
+6 dicas de performance de Node.js que você pode começar a usar hoje
+http://imasters.com.br/front-end/javascript/6-dicas-de-performance-de-node-js-que-voce-pode-comecar-a-usar-hoje/?trace=1519021197&source=single
+
+pdf de Arquitetura:
+http://bsi.uniriotec.br/tcc/201406Carvalho.pdf
+
+
+Melhores Práticas em Produção: Segurança
+http://expressjs.com/pt-br/advanced/best-practice-security.html
+
+
+Estudar
+http://meanjs.org
+http://mean.io/#!/
+http://blog.caelum.com.br/conhecendo-a-stack-mean-mongodb-express-angular-e-node/
+
+SlideShare sobre MEAN Stack:
+http://pt.slideshare.net/jgabriellima/mean-stack-aplicaes-web-modernas-com-m
+
+PaaS - OpenShift da RedHat
+http://dbruno.org/host-cloud-openshift/
+https://en.wikipedia.org/wiki/Cloud_computing#Infrastructure_as_a_service_.28IaaS.29
+https://www.profissionaisti.com.br/2015/04/openshift-paas-de-verdade/
+http://aprendendo-cloud-computing.blogspot.com.br/2012/10/primeiros-passos-com-openshift.html
+https://www.infoq.com/br/interviews/openshift-desenvolvedores-startups (video)
+http://localhost8080.blogspot.com.br/2015/01/minha-experiencia-com-openshift.html
+https://www.redhat.com/pt-br/technologies/cloud-computing/openshift
+http://protocoloti.blogspot.com.br/2012/03/saas-paas-e-iaas-as-camadas-do-cloud.html
+https://www.nginx.com/blog/openshift-ecosystem-implementing-the-nginx-proxy-model-on-red-hat-openshift/
+
+
+MONTANDO O PROJETO COM A MEAN STACK:
+MEAN Stack: Hora de ser mau! 
+http://www.obomprogramador.com/2014/04/mean-stack-hora-de-ser-mau.html
+
+Introduction to the MEAN Stack, Part One: Setting Up Your Tools
+https://thecodebarbarian.wordpress.com/2013/07/22/introduction-to-the-mean-stack-part-one-setting-up-your-tools/
+Introduction to the MEAN Stack, Part Two: Building and Testing a To-do List
+https://thecodebarbarian.wordpress.com/2013/07/29/introduction-to-the-mean-stack-part-two-building-and-testing-a-to-do-list/
+
+ARTIGO TRADUZIDO:
+https://translate.google.com.br/translate?hl=pt-BR&sl=en&u=https://thecodebarbarian.wordpress.com/2013/07/22/introduction-to-the-mean-stack-part-one-setting-up-your-tools/&prev=search
+https://translate.google.com.br/translate?hl=pt-BR&sl=en&u=https://thecodebarbarian.wordpress.com/2013/07/29/introduction-to-the-mean-stack-part-two-building-and-testing-a-to-do-list/&prev=search
+
+Instalando o Express
+http://expressjs.com/pt-br/starter/installing.html
+http://pt.stackoverflow.com/questions/72450/n%C3%A3o-consigo-criar-projeto-usando-express-node-js
+npm install express-generator -g
+
+
+INSTALAR O ANGULAR PELO BOWER E CONFIGURANDO O PROXY NO BOWER
+http://stackoverflow.com/questions/23807251/installing-bower-package-behind-a-proxy
+
+SUBINDO O LISTENER DO NODE JS:
+http://expressjs.com/pt-br/starter/hello-world.html
+
+
+CONFIGURANDO AMBIENTE MONGODB NO WINDOWS
+https://pablojuancruz.wordpress.com/2014/09/03/configurando-ambiente-mongodb-no-windows/
+https://docs.mongodb.com/manual/tutorial/install-mongodb-on-windows/
+
+Modulo HTTP Node:
+http://nomadev.com.br/be-mean-node-js-http/
+https://docs.angularjs.org/api/ng/service/$http
+
+
+Running nodejs and express on Windows e mudar o NodeJs de porta 3000 para 80
+https://coderwall.com/p/mbov6w/running-nodejs-and-express-on-windows
+
+Configurando o proxy no npm:
+https://gist.github.com/erkobridee/4061363
+
+
+Processo de Build e Deploy (CDN) Automatizado para Aplicações Javascript (Grunt, CicleCI, Karma/Jasmine, JSHint)
+http://shipit.resultadosdigitais.com.br/blog/processo-de-build-e-deploy-automatizado-para-aplicacoes-javascript/
+https://medium.com/wolox-driving-innovation/deploy-your-angularjs-app-to-aws-s3-with-ssl-3635a62533ab#.rpw1bknyu
+https://translate.google.com.br/translate?hl=pt-BR&sl=en&u=https://www.reddit.com/r/angularjs/comments/2hzoqf/hosting_angular_site_on_cdn_worth_it/&prev=search
+
+Nginx é obsoleto agora que temos Amazon CloudFront?
+https://www.peterbe.com/plog/is-nginx-obsolete-amazon-cloudfront
+
+http://mindbending.org/pt/servindo-sites-estaticos-com-o-nginx
+
+GZip
+http://www.cdnplanet.com/blog/gzip-nginx-cloudfront/
+https://dzone.com/articles/how-compress-responses-java
+http://www.singular.co.nz/2008/07/finding-preferred-accept-encoding-header-in-csharp/
+
+
+Melhores Práticas de Produção: desempenho e confiabilidade
+http://expressjs.com/pt-br/advanced/best-practice-performance.html
+
+Cache HTTP - Como otimizar seu site com Cache HTTP
+https://betterexplained.com/articles/how-to-optimize-your-site-with-http-caching/
+https://devcenter.heroku.com/articles/increasing-application-performance-with-http-cache-headers
+
+
+
+gzip compress and cache api response in express
+http://javascript.tutorialhorizon.com/2016/01/12/gzip-compress-cache-api-response-express/
+
+Como otimizar seu site com Compactação GZIP
+https://betterexplained.com/articles/how-to-optimize-your-site-with-gzip-compression/
+
+Como otimizar seu site com Cache HTTP
+https://betterexplained.com/articles/how-to-optimize-your-site-with-http-caching/
+
+Acelerar o seu Javascript tempo de carga
+https://betterexplained.com/articles/speed-up-your-javascript-load-time/
+
+
+http://blog.deepakazad.com/2016/05/angularjs-and-amazon-s3-cloudfront.html
+
+
+
+CRIANDO UMA APLICACAO MULTI-VIEW COM SINGLE PAGES
+http://tableless.com.br/criando-uma-aplicacao-single-page-com-angularjs/ (MUITO BOM, AQUI ENTENDI O CONCEITO DE CRIAR MULTI-VIEWS COMO SPA)
+http://blog.caelum.com.br/navegando-por-uma-single-page-application-angular/
+https://scotch.io/tutorials/angular-routing-using-ui-router
+https://blog.lambda3.com.br/2014/07/uma-single-page-application-bem-sucedida/   (GOSTEI O LAYOUT)
+http://matheusazzi.com/single-page-apps/
+http://www.edneiparmigiani.com.br/single-page-applications-spa/
+https://github.com/ericknilsen/SAD/wiki/Documento-de-Arquitetura-de-Software
+https://tableless.com.br/criando-uma-aplicacao-single-page-com-angularjs/
+
+Video Sobre SPA
+https://www.infoq.com/br/presentations/desenvolvendo-single-page-application
+https://tableless.com.br/criando-uma-aplicacao-single-page-com-angularjs/
+https://rafaell-lycan.com/2015/angular-definindo-rotas/
+http://gabrielfeitosa.com/angularjs-route/
+
+JADE:
+http://tableless.com.br/acelere-o-desenvolvimento-front-end-com-jade/
+http://www.concretesolutions.com.br/2015/01/19/brincando-com-template-engine-jade/
+
+
+8 motivos que me levaram a usar o AngularJS como primeira opção em meus projetos
+http://waldyrfelix.com.br/2015/08/02/por-que-usar-angularjs/
+
+
+JAVA SCRIPT DESINER PATTERN
+https://addyosmani.com/resources/essentialjsdesignpatterns/book/#facadepatternjavascript
+
+
+
+
+
+
+
+
+
+

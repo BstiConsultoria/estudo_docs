@@ -1,0 +1,92 @@
+Concorrentes:
+http://automacao2000.com.br/solucoes/food-service-alimentacao/?gclid=CjwKEAiAvZTCBRDvnoOaoa2j3xISJABxPjN9KAj-TUqKWX9n-sV8fQO0H5u21t-V33yKIEuaW0GFDxoCpTXw_wcB
+http://sistemaparadelivery.com.br/
+
+
+
+
+Menu Dashboard
+
+Graficos de Barras
+ - Entrada Pedidos
+ - Preparação
+ - Entrega
+
+
+1- Pedidos
+- Quantidade de Pizzas - Tickets Promoção
+- Quantidade Pizza Balcão
+- Quantidade Pizza - App Mobile
+- Quantidade Pedidos Telefone
+- Quantidade de Pedisos via Chat
+- Quantidade Pizza Cortezia
+
+- Total
+
+----------------------------------------------
+
+2 - Preparação (Forno):
+- Pedidos Pendentes
+
+- Total
+
+----------------------------------------------
+
+3 - Embalagem
+- Total
+
+----------------------------------------------
+4 - Delivery
+- Tempo de Espera Médio
+- Pizzas Pendentes para entrega
+  - Domicilio
+  - Balcão
+- Tempo Médio de Entrega
+
+----------------------------------------------
+
+5 - Financeiro
+- Pagamento Cartão
+- Pagamento Dinheiro
+- Pagamento Vale Refeição
+
+----------------------------------------------
+
+6 - Cliente
+
+- Pedidos em andamento
+- Pedidos Cancelados
+- Quantidade Reclamação
+- Novos Clientes (Dia)
+
+
+7 - Produto - Curva ABC
+
+- Rank Produto mais vendidos
+- Ranl Produto menor saida
+
+8 - Sumario
+
+- Total Pizza Vendidas no Dia
+- Total Clientes
+
+Menu Configurações
+  - Enable/Disable Opções Dashboard
+  - Notificações
+  - Configurar Tempo de Espera Automático
+
+Menu Cadastro:
+- Cadastro de Pizza
+- Cadastro de Produtos
+- Sub-Tipo Cardapio
+- Cadastro de Complementos
+- Cadastro de Horario de Funcionamento
+- Cadastro de Empresas
+
+
+Menu Consulta
+- Consulta de Pedidos Por:
+  . Numero Pedido, Nome Cliente, E-mail, Telefone, Valor, Produto
+
+
+

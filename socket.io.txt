@@ -1,0 +1,13 @@
+https://translate.googleusercontent.com/translate_c?depth=1&hl=pt-BR&prev=search&rurl=translate.google.com.br&sl=en&u=http://stackoverflow.com/questions/30547517/which-websocket-library-to-use-in-android-app&usg=ALkJrhi5SghKcoU8E0B6dbSYp-NQ_LMnRA
+http://imasters.com.br/desenvolvimento/conectando-no-socket-io-avancado/?trace=1519021197&source=single
+http://stackoverflow.com/questions/11356001/socket-io-private-message
+https://translate.googleusercontent.com/translate_c?depth=1&hl=pt-BR&prev=search&rurl=translate.google.com.br&sl=en&u=http://stackoverflow.com/questions/17476294/how-to-send-a-message-to-a-particular-client-with-socket-io&usg=ALkJrhjmPk6zoa4b2p-9dCi2F1pkaSdG3w
+https://translate.google.com.br/translate?hl=pt-BR&sl=en&tl=pt&u=http%3A%2F%2Fwww.codershood.info%2F2016%2F01%2F24%2Fsending-message-specific-user-socket-io%2F&anno=2
+http://zurb.com/forrst/posts/Nodejs_make_a_private_chat_server_using_socket_i-H6I
+https://translate.google.com.br/translate?hl=pt-BR&sl=en&u=http://webdeveloperguy.blogspot.com/2012/07/how-to-send-private-messages-using.html&prev=search
+https://michaelheap.com/sending-messages-to-certain-clients-with-socket-io/
+
+
+
+http://stackoverflow.com/questions/29187637/android-socket-io-not-connect-to-server
+

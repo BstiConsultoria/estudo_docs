@@ -1,0 +1,22 @@
+https://ecode10.com/artigo/1972/Trabalhando-com-Azure-ou-AWS
+
+
+Deploy a MEAN App to Amazon EC2
+https://translate.google.com.br/translate?hl=pt-BR&sl=en&u=https://scotch.io/tutorials/deploying-a-mean-app-to-amazon-ec2-part-1&prev=search
+https://translate.google.com.br/translate?hl=pt-BR&sl=en&u=https://scotch.io/tutorials/deploying-a-mean-app-to-amazon-ec2-part-1&prev=search
+
+Tutorial Mão na Massa sobre Amazon EC2
+http://awshub.com.br/resources/tutorial-mao-na-massa-sobre-amazon-ec2/
+https://translate.google.com.br/translate?hl=pt-BR&sl=en&u=https://docs.bitnami.com/bch/faq/&prev=search
+
+O METEOR é mais pratico que o MEAN STACK
+
+pois já vem com uma estrutura pronto do projeto onde tudo esta conectado, no MEAN precisamos ligar cada ponta,
+um exemplo seria um carrinho de compras com todas as peças para montar uma ferrari, o METEOR seria a ferrari pronta,
+basta sair programando.
+
+
+
+
+ESTUDO SOBRE CDN
+http://www.tecmundo.com.br/internet/54073-o-que-e-uma-cdn-e-como-ela-controla-a-internet-que-voce-usa-.htm

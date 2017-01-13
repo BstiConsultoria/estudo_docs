@@ -1,0 +1,40 @@
+http://rogerdudler.github.io/git-guide/index.pt_BR.html
+
+
+Usuario: BstiConsultoria
+Usuário: lroberto.silva.sp@gmail.com
+
+
+
+
+Para subir o projeto no github;
+git init
+git add --all
+git commit -m 'Teste de github'
+git remote add origin https://github.com/BstiConsultoria/poc.git
+git config --global http.proxy localhost:3128
+git push origin master
+
+
+Para Clonar:
+git clone git@github.com:usuario/repositoriogithub.git
+Pronto. Faça as alterações necessárias. Para subir os arquivos você precisa fazer o seguinte:
+
+git add *
+git commit -m 'Sua mensagem de commit'
+git push -u origin master
+
+============================================================
+
+…or create a new repository on the command line
+
+echo "# POC_OAuth2" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/BstiConsultoria/POC_OAuth2.git
+git push -u origin master
+…or push an existing repository from the command line
+
+git remote add origin https://github.com/BstiConsultoria/POC_OAuth2.git
+git push -u origin master
